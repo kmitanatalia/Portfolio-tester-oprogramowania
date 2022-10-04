@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+E-Commerce specialist, owner of two online stores with lighting during retraining to the role of a Manual Tester. I completed an individual software tester course with Waldemar Szafraniec as well as I myself deepen my vision in this field. At work, I was appreciated for good, clear communication and openness. Quick to adapt to change, therefore the industry change will not it was a problem for me.
 ## TOOLS
 * Jira
 * TestLink
@@ -9,12 +9,14 @@ I am young student with many technical skills. I am very motivated to become QA
 * Software testing
 * Creating test cases
 * Reporting bugs
-* SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 01.10.2022
 ## COURSES
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Indywidualne szkolenie na testera oprogramowania – Waldemar Szafraniec Testy I Szkolenia 
+* Podstawy manualnego testowania oprogramowania – Udemy.com
+* Kurs Jira od podstaw – zarządzenie projektami – Udemy.com
+* Praktyczny kurs testowania oprogramowania – Udemy.com
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
