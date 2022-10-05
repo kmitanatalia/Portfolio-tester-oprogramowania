@@ -37,4 +37,4 @@ Szkolenie Indywidualne tester manualny 01.10.2022
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](Link do raportu PDF)
-* [Report Excell](Link do raportu Excell)
+* [Report Excell](D:\_Google Drive\Portfolio\Report Excel)
