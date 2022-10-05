@@ -28,7 +28,7 @@ Szkolenie Indywidualne tester manualny 01.10.2022
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
-* [Test cases](tu link do google drive z plikiem z test case)
+* [Test cases](D:\_Google Drive\Portfolio\Testcase)
 ## MY BUGS
 ## MY BUGS FOR 
 * [Brak walidacji pól przy zakładaniu konta użytkownika](link do buga z google drive)
