@@ -28,10 +28,10 @@ Szkolenie Indywidualne tester manualny 02.10.2022
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
-## MY TEST CASE EXAMPLES FOR 
+## MY TEST CASE EXAMPLES FOR https://bonito.pl/
 * [Test cases](https://drive.google.com/file/d/1n4DjJt5JzG57iqm7ZcTOuj1TmW_5n0lw/view?usp=sharing)
 ## MY BUGS
-## MY BUGS FOR 
+## MY BUGS FOR https://bonito.pl/
 * [Brak walidacji pól przy zakładaniu konta użytkownika](https://drive.google.com/drive/folders/1eHnECvR5dUQaYLBnx0uMnihRIK0lVLXO?usp=sharing)
 * [Utworzenie nowego konta użytkownika na zajęty już numer telefonu](https://drive.google.com/drive/folders/1ePsD4pPs-r927PybLpoQOfchseUvDjyS?usp=sharing)
 * [Brak informacji, że konto użytkownika zostało usunięte](https://drive.google.com/drive/folders/1eUvchCFcqdeRr-kOzQXd_f9B2mqnIEJ-?usp=sharing)
@@ -47,7 +47,7 @@ Szkolenie Indywidualne tester manualny 02.10.2022
 * [Brak waliadacji pól w Dokument zakupu - Faktura VAT](https://drive.google.com/drive/folders/1fkx-i4ktltc3rSIQnMFjPBj1OKXspMO9?usp=sharing)
 * [Brak zaznaczonych na mapie punktów odbioru zamówienia Orlen Paczka](https://drive.google.com/drive/folders/1g0-rhG8bCOx5YYhvDNSb8lrhlorE0z_A?usp=sharing)
 ## MY REPORT
-## MY REPORT FOR 
+## MY REPORT FOR https://bonito.pl/
 * [Report PDF](https://drive.google.com/file/d/1oQ0mXJDl5jm0NDqx-0hLTUstRjHqiYsQ/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/1mxC2n0_UaIM5rBov9TEtYRxcmoUtgyfo/edit?usp=sharing&ouid=111753475631570619550&rtpof=true&sd=true)
 
