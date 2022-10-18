@@ -37,5 +37,5 @@ Szkolenie Indywidualne tester manualny 01.10.2022
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](Link do raportu PDF)
-* [Report Excell](D:\_Google Drive\Portfolio\Report Excel)[resultsTCFlat_Portfolio_Bonito.pl.xls](https://github.com/kmitanatalia/Portfolio-tester-oprogramowania/files/9809150/resultsTCFlat_Portfolio_Bonito.pl.xls)
-
+* [Report Excell]([resultsTCFlat_Portfolio_Bonito.pl.xls](https://github.com/kmitanatalia/Portfolio-tester-oprogramowania/files/9809163/resultsTCFlat_Portfolio_Bonito.pl.xls)
+)
