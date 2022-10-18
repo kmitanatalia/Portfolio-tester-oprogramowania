@@ -28,5 +28,3 @@ Szkolenie Indywidualne tester manualny 02.10.2022
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
-## MY TEST CASE EXAMPLES FOR 
-* [Test cases](D:\_google drive\Portfolio\Testcase)
