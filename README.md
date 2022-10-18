@@ -22,7 +22,7 @@ Szkolenie Indywidualne tester manualny 01.10.2022
 * testerzy.pl
 * testuj.pl
 * testITka
-* remigiuszbednarczyk.pl
+* [Zakotwiczony tekst]remigiuszbednarczyk.pl
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
