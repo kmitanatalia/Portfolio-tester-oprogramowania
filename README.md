@@ -17,10 +17,10 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
 * https://www.wyszkolewas.com.pl
-* testerzy.pl
-* testuj.pl
-* testITka
-* remigiuszbednarczyk.pl
+* https://testerzy.pl/
+* https://testuj.pl/
+* https://testerka.pl/
+* https://remigiuszbednarczyk.pl/
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
