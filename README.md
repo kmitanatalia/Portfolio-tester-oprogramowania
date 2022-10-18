@@ -32,9 +32,10 @@ Szkolenie Indywidualne tester manualny 02.10.2022
 * [Test cases](D:\_google drive\Portfolio\Testcase)
 ## MY BUGS
 ## MY BUGS FOR 
-* [nazwa buga](link do buga z google drive)
-* [nazwa buga](link do buga z google drive)
-
+* [Brak walidacji pól przy zakładaniu konta użytkownika] ( link )
+* [Utworzenie nowego konta użytkownika na zajęty już numer telefonu]
+* [ Brak informacji, że konto użytkownika zostało usunięte]
+* [ Dodanie adresu dostawy z pominięciem wymaganyDodanie adresu dostawy z pominięciem wymaga p
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF]
