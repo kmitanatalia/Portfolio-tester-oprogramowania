@@ -1,5 +1,5 @@
 # PORTFOLIO
-## ABOU
+## ABOUT ME
 E-Commerce specialist during retraining to the position of a Manual Tester. I completed an individual software tester course with Waldemar Szafraniec as well as I myself deepen my vision in this field. At work, I was appreciated for good, clear communication and openness. Quick to adapt to change, therefore an industry change will suit me well.
 ## TOOLS
 * Jira
@@ -12,9 +12,12 @@ E-Commerce specialist during retraining to the position of a Manual Tester. I co
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022 
+Szkolenie Indywidualne tester manualny 02.10.2022 
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Fundamentals of manual software testing - Udemy.com
+* Jira course from scratch -project management - Udemy.com
+* Practical Testing Course software -Udemy.com 
 ## RECOMENDED BLOGS
 * https://www.wyszkolewas.com.pl
 * https://testerzy.pl/
@@ -26,7 +29,7 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
-* [Test cases](tu link do google drive z plikiem z test case)
+* [Test cases](D:\_google drive\Portfolio\Testcase)
 ## MY BUGS
 ## MY BUGS FOR 
 * [nazwa buga](link do buga z google drive)
