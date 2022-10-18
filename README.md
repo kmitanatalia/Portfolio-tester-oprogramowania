@@ -34,5 +34,5 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 
 ## MY REPORT
 ## MY REPORT FOR 
-* [Report PDF](Link do raportu PDF)
+* [[resultsTCFlat_Portfolio_Bonito.pdf](https://github.com/kmitanatalia/Portfolio-tester-oprogramowania/files/9809343/resultsTCFlat_Portfolio_Bonito.pdf)](Link do raportu PDF)
 * [Report Excell](Link do raportu Excell)
