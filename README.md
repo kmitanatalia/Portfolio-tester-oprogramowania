@@ -1,6 +1,6 @@
 # PORTFOLIO
-## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+## ABOU
+E-Commerce specialist during retraining to the position of a Manual Tester. I completed an individual software tester course with Waldemar Szafraniec as well as I myself deepen my vision in this field. At work, I was appreciated for good, clear communication and openness. Quick to adapt to change, therefore an industry change will suit me well.
 ## TOOLS
 * Jira
 * TestLink
