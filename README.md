@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-E-Commerce specialist, owner of two online stores with lighting during retraining to the role of a Manual Tester. I completed an individual software tester course with Waldemar Szafraniec as well as I myself deepen my vision in this field. At work, I was appreciated for good, clear communication and openness. Quick to adapt to change, therefore the industry change will not it was a problem for me.
+I am young student with many technical skills. I am very motivated to become QA
 ## TOOLS
 * Jira
 * TestLink
@@ -9,33 +9,30 @@ E-Commerce specialist, owner of two online stores with lighting during retrainin
 * Software testing
 * Creating test cases
 * Reporting bugs
+* SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 01.10.2022
+Szkolenie Indywidualne tester manualny 05.04.2022
 ## COURSES
-* Indywidualne szkolenie na testera oprogramowania – Waldemar Szafraniec Testy I Szkolenia 
-* Podstawy manualnego testowania oprogramowania – Udemy.com
-* Kurs Jira od podstaw – zarządzenie projektami – Udemy.com
-* Praktyczny kurs testowania oprogramowania – Udemy.com
+* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
 * testuj.pl
 * testITka
-* [Zakotwiczony tekst]remigiuszbednarczyk.pl
+* remigiuszbednarczyk.pl
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
-* [Test cases](D:\_Google Drive\Portfolio\Testcase)
+* [Test cases](tu link do google drive z plikiem z test case)
 ## MY BUGS
 ## MY BUGS FOR 
-* [Brak walidacji pól przy zakładaniu konta użytkownika](link do buga z google drive)
-* [Utworzenie nowego konta użytkownika na zajęty już numer telefonu](link do buga z google drive)
+* [nazwa buga](link do buga z google drive)
+* [nazwa buga](link do buga z google drive)
 
 ## MY REPORT
 ## MY REPORT FOR 
 * [Report PDF](Link do raportu PDF)
-* [Report Excell]([resultsTCFlat_Portfolio_Bonito.pl.xls](https://github.com/kmitanatalia/Portfolio-tester-oprogramowania/files/9809163/resultsTCFlat_Portfolio_Bonito.pl.xls)
-)
+* [Report Excell](Link do raportu Excell)
